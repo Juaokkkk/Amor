@@ -31,8 +31,8 @@ body {
   cursor: pointer;
   border: solid rgb(209, 209, 209) 1px;
   color: gray;
-  font-size: 24pt;
-  padding: 5px;
+  font-size: 20pt;
+  padding: 10px;
   margin: 15px;
   border-radius: 8px;
   border: 1px solid rgb(206, 206, 206)
