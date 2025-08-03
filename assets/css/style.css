@@ -53,14 +53,16 @@ body{
     background-color: #FFF3B0 ;
     width: 90%;
     height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border-radius: 0px 0px 12px 12px ;
     text-align: center;
 }
 
 .text > h2{
     padding: 0 0 5% 0%;
-    font-size: 17pt;
-
+    font-size: 18pt;
 }
 
 @media(min-width:1024px){
@@ -86,7 +88,7 @@ body{
 
     .text > h2 {
         padding: 0 20px;
-        font-size: 20pt;
+        font-size: 25pt;
         line-height: 1.4;
     }
 
